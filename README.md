@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currently working on Silicon Labs Matter solution.
+- I'm currently learning Git.
+- I'm looking for help with Git.
+- How to reach me: wangjinchao126@126.com
